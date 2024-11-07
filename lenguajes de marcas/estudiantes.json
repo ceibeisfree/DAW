@@ -1,0 +1,8 @@
+<!--    Crea un fichero estudiantes.json
+        Define al menos 5 estudiantes sabiendo que cada estudiante debe tener:
+        Nombre
+        Apellidos
+        Fecha Nacimiento (formato yyyy-mm-dd) 
+        (4 dígitos para el año + "-" + 2 dígitos para el mes + "-" + 2 dígitos para el día.)
+-->
+        

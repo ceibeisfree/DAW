@@ -1,0 +1,27 @@
+<!--     Crea un documento peliculas.xml
+Define 5 películas en el documento sabiendo que cada película debe tener:
+Título Director Año     -->
+
+<xml>
+<peliculas>
+    <pelicula nombre="Leon, el profesional">
+        <director>Luc Besson</director>
+        <año>1994</año>
+    </pelicula>
+    <pelicula nombre="El quinto elemento">
+        <director>Luc Besson</director>
+        <año>1997</año>
+    </pelicula>
+    <pelicula nombre="El gran azul">
+        <director>Luc Besson</director>
+        <año>1988</año>
+    </pelicula>
+    <pelicula nombre="Nikita">
+        <director>Luc Besson</director>
+        <año>1990</año>
+    </pelicula>
+    <pelicula nombre="Lucy">
+        <director>Luc Besson</director>
+        <año>2014</año>
+    </pelicula>
+</peliculas>
